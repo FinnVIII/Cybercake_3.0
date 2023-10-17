@@ -1,0 +1,9 @@
+001 Bolo_de_chocolate Cybercake Bolo_sabor_chocolate 5,00
+002 Bolo_de_cenoura Cybercake Bolo_sabor_cenoura 6,00
+003 Bolo_de_Morango Cybercake Bolo_sabor_morango 7,00
+004 Bolo_de_limao Cybercake Bolo_sabor_limao 6,00
+005 Bolo_de_fuba Cybercake Bolo_de_fuba 5,00
+006 Bolo_de_laranja Cybercake Feito_com_laranja 5,00
+007 Bolo_de_milho Cybercake Bolo_feito_com_milho 4,00
+008 Bolo_de_banana Cybercake Bolo_feito_com_banana_(delicioso) 6,00
+009 Cupcake_de_Chocolate Cybercake Cupcake_de_chocolate 7,00
